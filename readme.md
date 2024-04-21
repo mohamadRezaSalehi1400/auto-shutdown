@@ -15,3 +15,5 @@ For example, if you want your system to turn off in 2 hours, enter the number 12
 
 **Important note:**
 Do not exit the program until the system shuts down.
+
+### mrsalehi90@gmail.com
